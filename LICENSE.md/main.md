@@ -27,5 +27,14 @@ B550--currently--does not have very very expensive motherboards (B550 Unify-X is
 * X570 has only two mATX boards, which are both pretty bad compared to B550, which has a ton of good mATX motherboards. 
 * In the mini-ITX arena, you only have one expansion slot on the motherboard anyways, so why get a more expensive X570 board? Yes, there is a X570i Strix for above $300 and the Crosshair Viii Impact for a lot more, but these boards don't offer much more in terms of features (C8I memory topology is worse than X570i Strix or B550i AX). Secondly, the VRMs on the B550 ITX boards is arguably better than their X570 equivalents (X570 just forces airflow through because of fans). Gigabyte B550i AX has 90 amp power stages which is pretty nice for the price.
 
+## Futureproofing
+But let's move on to "futureproofing". I could add a ton of reasons why futureproofing is a bad idea conceptually, but here are the examples to disprove that. Zen 3 is the end of AM4 meaning that Zen 4 will be on a new socket type. If you want to upgrade from Zen 1, Zen +, Zen 2, Zen 3, to anything beyond, you will need a new motherboard, processor, and now DDR5 RAM within the next one to two years. So buying a very expensive motherboard now makes no sense in this lense considering you shouldn't be upgrading within a single socket.
 
-
+## Conclusion
+Conclusion is that X570 is not a generation leap over B550 even remotely. It has features most people don't care for and will make you pay extra for: 
+- Wanting multiple PCIE Gen 4 SSD's instead of just one 
+- Wanting multiple NVME SSDs without losing any SATA ports 
+- Wanting to use multiple NVME SSDs, while using an extra PCIE Slot for some form of expansion card. (Not an issue on B550 boards with x8 x8 bifurcation mode lanes)
+- Wanting to use chipset as VM passthrough
+- USB 3.2 Gen 2 front header (B550 only has Gen 1)
+- You want to spend more than $300 on a motherboard
