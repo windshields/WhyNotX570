@@ -6,7 +6,7 @@
   5. [Conclusion](#conclusion)
 
 # Introduction
-A lot of what I am going to say here is very subject to exceptions, so plase read the conclusion for the full list on times when to get a X570 motherboard if I didn't discuss it in the paragraphs specifically.
+A lot of what I am going to say here is very subject to exceptions, so plase read the conclusion for the full list on times when to get a X570 motherboard if I didn't discuss it in the paragraphs specifically. Credits to WhooopityLongJohn for co-authoring this write-up.
 
 ## PCIE Gen 4
 * There has been a lot of buzz around "PCIE Gen 4", an improvement over Gen 3 which improves upon the total bus bandwidth allowing more data to be transferred. The easiest difference to point out between B550 and X570 is that B550 only has a single x16 Gen 4 lane and a x4 for the first M.2 slot whereas all the general lane PCIE and NVME slots are PCIE Gen 4 on X570. However, this is completely irrelevant for most users. In fact, users who are actually using more than one PCIE Gen 4 NVME drive have either a big bank account (generally irresponsible) or more likely to move over to xTR4 because chances are they are doing professional work. 
