@@ -18,7 +18,7 @@ A lot of what I am going to say here is very subject to exceptions, so plase rea
 ## Price
 * First of all, the quality of the board (VRM configuration, heatsinks, memory traces) can determine how far you can push your CPU or RAM, but the B550 and X570 chipsets are no different in that regard. B550 is not an inherent downgrade from X570. Rather, it is X570 with features cut out that most people don't need, which also decreaess cost. 
 
-B550--currently--does not have very very expensive motherboards (B550 Unify-X is coming), so if you're dropping $500 on a motherboard, well I guess X570 is for you? The only real reason to get a X570 board is that a B550 board doesn't has something you want/need--which for most people is not an issue.
+* B550--currently--does not have very very expensive motherboards (B550 Unify-X is coming), so if you're dropping $500 on a motherboard, well I guess X570 is for you? The only real reason to get a X570 board is that a B550 board doesn't has something you want/need--which for most people is not an issue.
 
 * If we compare a B550 motherboard and a X570 motherboard at the same price, it is usual assumption that the B550 motherboard will have more features and better cooling solutions. Think of X570 with a premium on top of B550. In this perspective, we see that many of the lower-tier X570 boards are straight-up inferior than cheaper B550 boards (I'm looking at you MSI). We only really see good boards emerge from X570 past the $200 range of which there are still very very top tier B550 boards with more features (MSI X570 Tomahawk lacking some debugging features despite being more than $200 and tailored for overclocking--still a good board though). 
 
