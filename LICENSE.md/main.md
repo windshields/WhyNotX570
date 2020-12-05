@@ -26,7 +26,8 @@ A lot of what I am going to say here is very subject to exceptions, so plase rea
 * B550 vs X570 Extreme4? VRMs are essentially the same, B550 is cheaper, and has a ton of troubleshooting features that the X570 doesn’t have. B550 wins here. 
 * B550 vs X570 Aorus Master? VRM’s are **BETTER** on the B550, you get more rear USBs on B550, and it's cheaper. B550 wins again (yet both boards aren't really worth it. You have to deal with dual BIOS without switches on B550 and X570 is just outclassed at its price bracket)
 * You don't need a very expensive motherboard to get the features you want, and you don't need a pesky chipset fan to know it has nice features (most X570 boards have controls for it but not all of them).
-* X570 has only two mATX boards, which are both pretty bad compared to B550, which has a ton of good mATX motherboards. 
+* X570 has only two mATX boards, which are both pretty bad compared to B550, which has a ton of good mATX motherboards. Asrock X570m Pro4 is pretty bad. 4 by 2 Vcore doubled on 55 amp power stages. There are B550 boards literally better than it. And the heatsink doesn't have a lot of surface area. Biostar board is 4 by 3 Vcore single, trash rear IO, and never in stock. 
+
 * In the mini-ITX arena, you only have one expansion slot on the motherboard anyways, so why get a more expensive X570 board? Yes, there is a X570i Strix for above $300 and the Crosshair Viii Impact for a lot more, but these boards don't offer much more in terms of features (C8I memory topology is worse than X570i Strix or B550i AX). Secondly, the VRMs on the B550 ITX boards is arguably better than their X570 equivalents (X570 just forces airflow through because of fans). Gigabyte B550i AX has 90 amp power stages which is pretty nice for the price.
 
 ## Futureproofing
