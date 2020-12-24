@@ -24,7 +24,7 @@ A lot of what I am going to say here is very subject to exceptions, so plase rea
 
 ## B550 vs X570 Reality
 * B550 vs X570 Extreme4? VRMs are essentially the same, B550 is cheaper, and has a ton of troubleshooting features that the X570 doesn’t have. B550 wins here. 
-* B550 vs X570 Aorus Master? VRM’s are **BETTER** on the B550, you get more rear USBs on B550, and it's cheaper. B550 wins again (yet both boards aren't really worth it. You have to deal with dual BIOS without switches on B550 and X570 is just outclassed at its price bracket)
+* B550 vs X570 Aorus Master? VRM is **BETTER** on the B550, you get more rear USBs on B550, and it's cheaper. B550 wins again (yet both boards aren't really worth it. You have to deal with dual BIOS without switches on B550 and X570 is just outclassed at its price bracket)
 * You don't need a very expensive motherboard to get the features you want, and you don't need a pesky chipset fan to know it has nice features (a lot of X570 boards have controls for it but not all of them).
 * X570 has only two mATX boards, which are both pretty bad compared to B550, which has a ton of good mATX motherboards. Asrock X570m Pro4 is pretty bad--4 by 2 Vcore doubled on 55 amp power stages with the worst heatsink ever. There are B550 boards literally better than it. And the heatsink doesn't have a lot of surface area. Biostar board is 4 by 3 Vcore single, trash rear IO, and never in stock. 
 
